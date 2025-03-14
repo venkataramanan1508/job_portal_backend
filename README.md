@@ -80,20 +80,6 @@ Ensure you have **Node.js** installed on your machine.
   }
   ```
 
-#### Get All Jobs
-- **Endpoint:** `GET /job/get`
-- **Response:**
-  ```json
-  [
-    {
-      "job_id": "job123",
-      "company_name": "Tech Corp",
-      "job_position": "Software Engineer",
-      "location": "New York, USA"
-    }
-  ]
-  ```
-
 ## License
 This project is licensed under the **ISC License**.
 
